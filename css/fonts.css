@@ -1,0 +1,99 @@
+@font-face {
+    font-family: 'InterTightRegular';
+    src: url('../fonts/Intertightregular/InterTightRegular.eot');
+    src: url('../fonts/Intertightregular/InterTightRegular.eot') format('embedded-opentype'),
+         url('../fonts/Intertightregular/InterTightRegular.woff2') format('woff2'),
+         url('../fonts/Intertightregular/InterTightRegular.woff') format('woff'),
+         url('../fonts/Intertightregular/InterTightRegular.ttf') format('truetype'),
+         url('../fonts/Intertightregular/InterTightRegular.svg#InterTightRegular') format('svg');
+}
+
+@font-face {
+    font-family: 'InterTightMedium';
+    src: url('../fonts/InterTightMedium/InterTightMedium.eot');
+    src: url('../fonts/InterTightMedium/InterTightMedium.eot') format('embedded-opentype'),
+         url('../fonts/InterTightMedium/InterTightMedium.woff2') format('woff2'),
+         url('../fonts/InterTightMedium/InterTightMedium.woff') format('woff'),
+         url('../fonts/InterTightMedium/InterTightMedium.ttf') format('truetype'),
+         url('../fonts/InterTightMedium/InterTightMedium.svg#InterTightMedium') format('svg');
+}
+
+@font-face {
+    font-family: 'InterTightMediumItalic';
+    src: url('../fonts/InterTightMediumItalic/InterTightMediumItalic.eot');
+    src: url('../fonts/InterTightMediumItalic/InterTightMediumItalic.eot') format('embedded-opentype'),
+         url('../fonts/InterTightMediumItalic/InterTightMediumItalic.woff2') format('woff2'),
+         url('../fonts/InterTightMediumItalic/InterTightMediumItalic.woff') format('woff'),
+         url('../fonts/InterTightMediumItalic/InterTightMediumItalic.ttf') format('truetype'),
+         url('../fonts/InterTightMediumItalic/InterTightMediumItalic.svg#InterTightMediumItalic') format('svg');
+}
+
+@font-face {
+    font-family: 'InterTightSemiBold';
+    src: url('../fonts/InterTightSemiBold/InterTightSemiBold.eot');
+    src: url('../fonts/InterTightSemiBold/InterTightSemiBold.eot') format('embedded-opentype'),
+         url('../fonts/InterTightSemiBold/InterTightSemiBold.woff2') format('woff2'),
+         url('../fonts/InterTightSemiBold/InterTightSemiBold.woff') format('woff'),
+         url('../fonts/InterTightSemiBold/InterTightSemiBold.ttf') format('truetype'),
+         url('../fonts/InterTightSemiBold/InterTightSemiBold.svg#InterTightSemiBold') format('svg');
+}
+
+@font-face {
+    font-family: 'InterTightSemiBoldItalic';
+    src: url('../fonts/InterTightSemiBoldItalic/InterTightSemiBoldItalic.eot');
+    src: url('../fonts/InterTightSemiBoldItalic/InterTightSemiBoldItalic.eot') format('embedded-opentype'),
+         url('../fonts/InterTightSemiBoldItalic/InterTightSemiBoldItalic.woff2') format('woff2'),
+         url('../fonts/InterTightSemiBoldItalic/InterTightSemiBoldItalic.woff') format('woff'),
+         url('../fonts/InterTightSemiBoldItalic/InterTightSemiBoldItalic.ttf') format('truetype'),
+         url('../fonts/InterTightSemiBoldItalic/InterTightSemiBoldItalic.svg#InterTightSemiBoldItalic') format('svg');
+}
+
+@font-face {
+    font-family: 'InterTightBold';
+    src: url('../fonts/InterTightBold/InterTightBold.eot');
+    src: url('../fonts/InterTightBold/InterTightBold.eot') format('embedded-opentype'),
+         url('../fonts/InterTightBold/InterTightBold.woff2') format('woff2'),
+         url('../fonts/InterTightBold/InterTightBold.woff') format('woff'),
+         url('../fonts/InterTightBold/InterTightBold.ttf') format('truetype'),
+         url('../fonts/InterTightBold/InterTightBold.svg#InterTightBold') format('svg');
+}
+
+@font-face {
+    font-family: 'InterTightExtraBoldItalic';
+    src: url('../fonts/InterTightExtraBoldItalic/InterTightExtraBoldItalic.eot');
+    src: url('../fonts/InterTightExtraBoldItalic/InterTightExtraBoldItalic.eot') format('embedded-opentype'),
+         url('../fonts/InterTightExtraBoldItalic/InterTightExtraBoldItalic.woff2') format('woff2'),
+         url('../fonts/InterTightExtraBoldItalic/InterTightExtraBoldItalic.woff') format('woff'),
+         url('../fonts/InterTightExtraBoldItalic/InterTightExtraBoldItalic.ttf') format('truetype'),
+         url('../fonts/InterTightExtraBoldItalic/InterTightExtraBoldItalic.svg#InterTightExtraBoldItalic') format('svg');
+}
+
+@font-face {
+    font-family: 'InterTightLight';
+    src: url('../fonts/InterTightLight/InterTightLight.eot');
+    src: url('../fonts/InterTightLight/InterTightLight.eot') format('embedded-opentype'),
+         url('../fonts/InterTightLight/InterTightLight.woff2') format('woff2'),
+         url('../fonts/InterTightLight/InterTightLight.woff') format('woff'),
+         url('../fonts/InterTightLight/InterTightLight.ttf') format('truetype'),
+         url('../fonts/InterTightLight/InterTightLight.svg#InterTightLight') format('svg');
+}
+
+@font-face {
+    font-family: 'InterTightLightItalic';
+    src: url('../fonts/InterTightLightItalic/InterTightLightItalic.eot');
+    src: url('../fonts/InterTightLightItalic/InterTightLightItalic.eot') format('embedded-opentype'),
+         url('../fonts/InterTightLightItalic/InterTightLightItalic.woff2') format('woff2'),
+         url('../fonts/InterTightLightItalic/InterTightLightItalic.woff') format('woff'),
+         url('../fonts/InterTightLightItalic/InterTightLightItalic.ttf') format('truetype'),
+         url('../fonts/InterTightLightItalic/InterTightLightItalic.svg#InterTightLightItalic') format('svg');
+}
+
+@font-face {
+    font-family: 'InterTightItalic';
+    src: url('../fonts/InterTightItalic/InterTightItalic.eot');
+    src: url('../fonts/InterTightItalic/InterTightItalic.eot') format('embedded-opentype'),
+         url('../fonts/InterTightItalic/InterTightItalic.woff2') format('woff2'),
+         url('../fonts/InterTightItalic/InterTightItalic.woff') format('woff'),
+         url('../fonts/InterTightItalic/InterTightItalic.ttf') format('truetype'),
+         url('../fonts/InterTightItalic/InterTightItalic.svg#InterTightItalic') format('svg');
+}
