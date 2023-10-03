@@ -1,5 +1,10 @@
 $(document).ready(function(){
-    $('.boxes-slider').slick({
+    $('.featuredpartners .boxes-slider').slick({
+        dots: true,
+        arrows: false
+    });
+
+    $('.integrations .slider-boxes').slick({
         dots: true,
         arrows: false
     });
